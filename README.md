@@ -1,11 +1,11 @@
-# myapp
+# Emotional Journal
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
+Emotion Journal – A Private Space for Your Feelings
+Emotion Journal is a simple yet meaningful Flutter application designed to help users reflect on and record their emotional states. It provides a secure and user-friendly environment where individuals can log their daily feelings, thoughts, and emotional experiences.
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
