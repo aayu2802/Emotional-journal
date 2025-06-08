@@ -16,3 +16,6 @@ Key Features
 📝 Easy Journal Entry: Input your emotion and a brief description of how you feel with an intuitive and clean interface.
 
 📅 Timeline of Emotions: All entries are stored with timestamps, allowing you to track emotional trends over time.
+
+
+Password For this app is #myjournal123
