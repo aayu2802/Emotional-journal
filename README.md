@@ -18,4 +18,4 @@ Key Features
 📅 Timeline of Emotions: All entries are stored with timestamps, allowing you to track emotional trends over time.
 
 
-Password For this app is #myjournal123
+# Password For this app is myjournal123
